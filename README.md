@@ -1,6 +1,6 @@
 | 2023 | Tech Stack |
 | ----------- | ---------- |
-| - 💼 Career: building an ecommerce platform | - 👽 Fullstack JavaScript |
+| - 💼 Career: building ecommerce platforms | - 👽 Fullstack JavaScript |
 | - 🌱 Learning: LLMs, LoRAs, AI tooling | - 🚀 React / Next.js |
 | - 🔭 Amibitions: AI or space industry career | - 📡 Node / Express |
 | - 📫 Contact: jason@dukleth.com | - 🌌 OpenAI / LangChain |
