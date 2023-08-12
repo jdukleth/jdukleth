@@ -1,4 +1,4 @@
-| 2023 | Tech Stack | Me |
+| 2023 | Tech Stack | Leisure |
 | ----------- | ---------- | ---------- |
 | 💼 Career: building ecommerce platforms | 👽 Fullstack JavaScript | 🥏 Disc Golf 🐶 |
 | 🌱 Learning: LLMs, LoRAs, AI tooling | 🚀 React / Next.js | 🛠️ Side Projects |
