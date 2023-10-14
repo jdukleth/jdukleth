@@ -1,4 +1,4 @@
-![jdukleth](https://res.cloudinary.com/drwk6hccn/image/upload/c_crop,w_0.70,x_0.12,h_0.3,y_0.32/me/logos/json-x_y6cqi3.png)
+![jdukleth](https://res.cloudinary.com/drwk6hccn/image/upload/c_crop,w_0.67,x_0.2,h_0.3,y_0.32/me/logos/json-x_y6cqi3.png)
 
 | 2023 | Tech Stack | Leisure |
 | ----------- | ---------- | ---------- |
