@@ -6,4 +6,4 @@
 | 🌱 Learning: LLMs, LoRAs, AI tooling | 🚀 React / Next.js | 🛠️ Side Projects |
 | 🔭 Ambitions: AI, space industry career | 📡 Node / Express | 🤖 Mr. Robot |
 | 📫 Contact: jason@dukleth.com | 🌌 OpenAI / LangChain | 🎮 Everspace 2 |
-| 🌎 Portfolio: www.dukleth.com | 🌓 Firebase / SQL | 🎧 GoldenEye Source (Sole Signal) |
+| 🌎 Portfolio: www.dukleth.com | 🌓 Prisma / SQL | 🎧 GoldenEye Source (Sole Signal) |
