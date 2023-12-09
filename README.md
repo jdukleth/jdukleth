@@ -6,4 +6,4 @@
 | 🌱 Embracing: LLMs, AI tooling | 🚀 React / Next.js | 🛠️ Thought Experiments |
 | 🔭 Ambitions: AI, gaming, space industry | 📡 Node / Express | 🤖 Mr. Robot |
 | 📫 Contact: jason@dukleth.com | 🌓 PostgreSQL / ORM | 🎮 Kerbal Space Program |
-| 🌎 Portfolio: www.dukleth.com | 🌌 OpenAI / LLMs  | 🎧 GoldenEye Source (Sole Signal) |
+| 🌎 Portfolio: www.dukleth.com | 🌌 OpenAI / Cylons  | 🎧 GoldenEye Source (Sole Signal) |
