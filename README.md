@@ -3,7 +3,7 @@
 | 2023 | Tech Stack | Leisure |
 | ----------- | ---------- | ---------- |
 | 💼 Career: building ecommerce platforms | 👽 Fullstack JavaScript | 🥏 Disc Golf 🐶 |
-| 🌱 Embracing: the singularity | 🚀 React / Next.js | 🛠️ Thought Experiments |
+| 🌱 Embracing: the singularity | 🚀 React / Next.js | ⚔️ House of the Dragon  |
 | 🔭 Interests: AI, gaming, space industry | 📡 Node / Express | 🤖 Mr. Robot |
-| 📫 Contact: jason@dukleth.com | 🌓 PostgreSQL / ORM | 🎮 GoT LCG |
+| 📫 Contact: jason@dukleth.com | 🌓 PostgreSQL / ORM | 🎮 Mass Effect |
 | 🌎 Portfolio: www.dukleth.com | 🌌 LLM APIs  | 🎧 GoldenEye Source (Sole Signal) |
