@@ -6,4 +6,4 @@
 | 🌱 Embracing: the singularity | 🚀 React / Next.js | ⚔️ Card Games  |
 | 🔭 Interests: AI, gaming, space industry | 📡 Node / Express | 🤖 Mr. Robot |
 | 📫 Contact: jason@dukleth.com | 🌓 SQL / ORM | 🎮 Mass Effect |
-| 🌎 Portfolio: www.dukleth.com | 🌌 LLM APIs  | 🎧 GoldenEye Source (Sole Signal) |
+| 🌎 Portfolio: www.dukleth.com | 🌌 LLM APIs  | 🎧 Orchestral & Electronic |
