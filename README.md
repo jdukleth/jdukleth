@@ -2,8 +2,8 @@
 
 | 2025 | Tech Stack | Unwind |
 | ----------- | ---------- | ---------- |
-| 💼 Career: building ecommerce platforms | 👽 Fullstack JavaScript | 🥏 Disc Golf 🐶 |
+| 💼 Career: aviation & ecommerce platforms | 👽 Full Stack JavaScript | 🥏 Disc Golf 🐶 |
 | 🌱 Embracing: the singularity | 🚀 React / Next.js | ⚔️ Card Games  |
-| 🔭 Interests: AI, gaming, space industry | 📡 Node / Express | 🤖 Mr. Robot |
-| 📫 Contact: jason@dukleth.com | 🌓 SQL / ORM | 🎮 Mass Effect |
-| 🌎 Portfolio: www.dukleth.com | 🌌 LLM APIs  | 🎧 Orchestral & Electronic |
+| 🔭 Interests: AI, gaming, space industry | 📡 Node / Realtime | 🤖 Mr. Robot |
+| 📫 Contact: jason@dukleth.com | 🌓 SQL / Websockets | 🎮 Mass Effect |
+| 🌎 Portfolio: www.dukleth.com | 🌌 AI / MCP / LLMs | 🎧 Orchestral & Electronic |
