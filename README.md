@@ -4,6 +4,6 @@
 | ----------- | ---------- | ---------- |
 | 💼 Career: aviation & ecommerce platforms | 👽 Full Stack JavaScript | 🥏 Disc Golf 🐶 |
 | 🌱 Embracing: the singularity | 🚀 React / Next.js | ⚔️ Card Games  |
-| 🔭 Interests: AI, gaming, space industry | 📡 Node / Realtime | 🤖 Mr. Robot |
-| 📫 Contact: jason@dukleth.com | 🌓 SQL / Websockets | 🎮 Mass Effect |
+| 🔭 Interests: AI, gaming, space industry | 📡 Node / SQL | 🤖 Mr. Robot |
+| 📫 Contact: jason@dukleth.com | 🌓 Realtime / Websockets | 🎮 Mass Effect |
 | 🌎 Portfolio: www.dukleth.com | 🌌 AI / MCP / LLMs | 🎧 Orchestral & Electronic |
